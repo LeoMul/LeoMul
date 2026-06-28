@@ -6,5 +6,5 @@ On this page you'll find utility codes for Atomic Data processing, modelling and
 
 If you're interested in my research, you can find my articles at [my ORCiD link](https://orcid.org/0009-0003-2668-5589). Additionally, you can contact me on [LinkedIn](https://www.linkedin.com/in/leo-patrick-mulholland-00aa52239/) or at <lmulholland25@qub.ac.uk>.
 
-Here you'll also find respositories that contain passion projects, toy codes, and programs from earier stages in my career, such as my Secret Santa mailer, the code for my first ever research project on large deviations within epidemiology, and my Master's Project at Queen's. 
+Here you'll also find repositories that contain passion projects, toy codes, and programs from earlier stages in my career, such as my Secret Santa mailer, the code for my first ever research project on large deviations within epidemiology, and my Master's Project at Queen's. 
 
